@@ -5,6 +5,7 @@ Created on Oct 9, 2021
 '''
 
 def tone_number_to_diacritic(input_text, c_replace, tone):
+    # TODO: replace with unicode values
     
     tone_map = dict()
     tone_map['a1'] = 'ā'
